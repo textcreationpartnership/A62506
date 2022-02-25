@@ -1,0 +1,558 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Thrænodium Britannicum a funeral poem to the memory of William Duke of Glocester / by the author of The carmen natalitium.</title>
+            <author>Author of the Carmen natalitium.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A62506</idno>
+            <idno type="STC">Wing T1128A</idno>
+            <idno type="STC">ESTC R24629</idno>
+            <idno type="EEBO-CITATION">08255943</idno>
+            <idno type="OCLC">ocm 08255943</idno>
+            <idno type="VID">41237</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A62506)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 41237)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1242:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Thrænodium Britannicum a funeral poem to the memory of William Duke of Glocester / by the author of The carmen natalitium.</title>
+                  <author>Author of the Carmen natalitium.</author>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the year 1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:41237:1"/>
+            <!-- PDF PAGE 8 -->
+            <pb facs="tcp:41237:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 8 -->
+            <p>Thraenodium Britannicum.</p>
+            <p>A FUNERAL POEM TO THE MEMORY OF WILLIAM Duke of Gloceſter.</p>
+            <p>By the Author of <hi>The Carmen Natalitium.</hi>
+            </p>
+            <q>
+               <l>Tantaene animis coeleſtibus irae.</l>
+            </q>
+            <p>
+               <hi>LONDON:</hi> Printed in the Year, 1700.</p>
+         </div>
+      </front>
+      <body>
+         <div type="elegy">
+            <pb facs="tcp:41237:2"/>
+            <!-- PDF PAGE 9 -->
+            <pb n="3" facs="tcp:41237:2"/>
+            <!-- PDF PAGE 9 -->
+            <head>A FUNERAL POEM ON THE Duke of Gloceſter.</head>
+            <lg>
+               <l>YE <hi>Heav'n-Crown'd Brows,</hi> what diff'rent Hinges move</l>
+               <l>Our Intereſts Below, and Yours Above;</l>
+               <l>Whilſt Your beſt <hi>Joys</hi> our Bitt'reſt <hi>Tears</hi> muſt coſt:</l>
+               <l>You've found an ANGEL, we a <hi>GLOC'STER</hi> loſt?</l>
+            </lg>
+            <lg>
+               <l>When Reverend <hi>Royal</hi> HEADS in Duſt are laid;</l>
+               <l>The Tears we owe like common Debts are paid.</l>
+               <l>Our Griefs are there an eaſier pangleſs Woe:</l>
+               <l>With half a Pain does the Cold Tribute flow.</l>
+               <l>We thoſe <hi>Great Dead</hi> to Reſt and Peace reſign:</l>
+               <l>When the <hi>Grave</hi> claims her <hi>Due,</hi> we leſs repine.</l>
+               <l>But when our whole <hi>Young</hi> HOPES are in their <hi>Bloom</hi>
+               </l>
+               <l>Of GLORY, ſnatcht to a Devouring Tomb:</l>
+               <lg>
+                  <l>A warmer Grief waits thoſe <hi>
+                        <g ref="char:V">Ʋ</g>ntimelier <g ref="char:V">Ʋ</g>rns.</hi>
+                  </l>
+                  <l>The Bloodſhot Eye to that ſad Object turns:</l>
+                  <l>And as the ſcalding Torrent falls, it burns.</l>
+               </lg>
+            </lg>
+            <lg>
+               <pb n="4" facs="tcp:41237:3"/>
+               <!-- PDF PAGE 10 -->
+               <l>The <hi>Minion</hi> of our <hi>Joys,</hi> in all his <hi>charms,</hi>
+               </l>
+               <l>Torne from our Hearts, our Souls, our Eyes, our Arms;</l>
+               <l>Here the affrighting <hi>King of Terrors</hi> ſtands,</l>
+               <l>With his Tyrannick Arbitrary Hands.</l>
+               <l>O! <hi>GLOC'STER,</hi> at this Shaft, this killing Scene,</l>
+               <l>Thine is the <hi>Wound,</hi> but <hi>Albion</hi>'s all the <hi>Pain.</hi>
+               </l>
+               <l>Thou Sleep'ſt in Peace, lull'd to <hi>Eternal Joys:</hi>
+               </l>
+               <l>But Oh, the Blaſt our ſickning Bliſs deſtroys!</l>
+               <l>That <hi>
+                     <g ref="char:V">Ʋ</g>niverſal Shock</hi> thy Fate muſt give;</l>
+               <l>In more Convulſions then thou dyeſt, we live.</l>
+            </lg>
+            <lg>
+               <l>In <hi>GLOC'STER</hi>'s growing <hi>Spring,</hi> our Happy <hi>Iſle</hi>
+               </l>
+               <l>Cheer'd with kind Providences warmeſt Smile,</l>
+               <l>Of that Young <hi>Atlas</hi> of her Throne poſſeſt,</l>
+               <l>How was the fair <hi>Britannia</hi> more then Bleſt?</l>
+               <l>So much her Darling <hi>GLOC'STER</hi>'s Charms ſhe felt,</l>
+            </lg>
+            <lg>
+               <l>Till to thoſe heights her ſoaring Tranſports rod,</l>
+               <l>She Gaz'd with <hi>Wonder,</hi> with <hi>Devotion</hi> knelt;</l>
+            </lg>
+            <lg>
+               <l>No Thanks could bend too low, to Bleſs the giving GOD.</l>
+               <l>But whilſt her Eyes on this <hi>Bright Object</hi> ſtaid,</l>
+               <l>The Lovely FORME and fairer SOUL ſurvey'd;</l>
+               <l>She ſaw thoſe <hi>Sweets,</hi> thoſe Early <hi>Beauties</hi> ſhine,</l>
+               <l>Proud Natures <hi>Maſterſtroke</hi> in every Line.</l>
+               <l>
+                  <hi>Perfections</hi> all Divine, ſo heap'd, ſo maſs't,</l>
+               <l>Oh the <hi>Immortal Pencil</hi> drew too Faſt!</l>
+               <l>Snatcht from our Sight, all our fond Hopes muſt ceaſe;</l>
+               <l>The World's <hi>
+                     <g ref="char:V">Ʋ</g>nworthy</hi> of the FINISHT PIECE.</l>
+               <l>Such BLESSINGS were but too <hi>profuſe</hi> a Shour;</l>
+               <l>W' had been too <hi>Rich,</hi> and Heav'n would give no more.</l>
+            </lg>
+            <lg>
+               <pb n="5" facs="tcp:41237:3"/>
+               <!-- PDF PAGE 10 -->
+               <l>But thou Young HERO, ſuch thy <hi>Morning</hi> Beam,</l>
+               <l>Oh <hi>GLOC'STER,</hi> when on that Illuſtrious Theme,</l>
+               <l>Recording <hi>Time,</hi> all Rapture, all Delight,</l>
+               <l>Shall the <hi>Memoirs</hi> even of thy CRADLE Write;</l>
+               <l>How ſhall he guide his ſhaking Pen, to tell</l>
+               <l>The frighted World how the keen <hi>Thunder</hi> fell;</l>
+               <l>At whoſe dread <hi>Bolt,</hi> e'er half his <hi>Soaring Pride,</hi>
+               </l>
+               <l>Drop'd from his Cedar Perch, the <hi>Royal EAGLET</hi> Dy'd!</l>
+            </lg>
+            <lg>
+               <l>Oh ne'er forgotten <hi>GLOC'STER,</hi> touch'd ſo near,</l>
+               <l>What has the Mourning <hi>Albion World</hi> loſt here!</l>
+               <l>When Great <hi>MARIA</hi>'s Call to her Dear Heaven,</l>
+            </lg>
+            <lg>
+               <l>Pride of both Worlds, by Men and Angels Lov'd,</l>
+               <l>To Bleeding <hi>Albion</hi> that deep Wound had given;</l>
+            </lg>
+            <lg>
+               <l>Such VIRTUE to her Brighter Throne remov'd:</l>
+               <l>Who would beleive there was in Fate that Blow,</l>
+               <l>Far far beyond Her Loſs, that narrower Woe:</l>
+               <l>A Blow, which <hi>Albion</hi>'s deeper Tears muſt melt,</l>
+               <l>More Univerſally Deplor'd and Felt.</l>
+               <l>Yes, <hi>GLOC'STER,</hi> our <hi>ſumm'd Hopes</hi> in THEE, weigh'd down</l>
+               <l>The Lighter Jems in Fair <hi>MARIA</hi>'s Crown.</l>
+               <l>Stinted by Fate, her bounded <hi>Glory</hi> leſs,</l>
+               <l>
+                  <hi>MARY</hi> the <hi>preſent</hi> Age could only bleſs.</l>
+               <l>Convey'd thro' Thy <hi>Rich</hi> VEINS, what <hi>Smiles of Heaven,</hi>
+               </l>
+               <l>To <hi>Endleſs Worlds,</hi> thy Lengthned life had given!</l>
+               <l>But ſince our Undeſerts have <hi>GLOC'STER</hi> loſt,</l>
+               <l>Thy Death POSTERITIE's long Sighs muſt coſt.</l>
+               <l>Yet <hi>
+                     <g ref="char:V">Ʋ</g>nborn Ages</hi> ſhall thy Mourners be:</l>
+               <l>Even the <hi>Entail</hi> of Bleſſings loſt in Thee.</l>
+            </lg>
+            <lg>
+               <pb n="6" facs="tcp:41237:4"/>
+               <!-- PDF PAGE 11 -->
+               <l>Of all the ſhining Roofs, the <hi>Royal Piles,</hi>
+               </l>
+               <l>Bleſt with that ſacred NURSERY's kind Smiles,</l>
+               <l>That now in Rueful <hi>Blacks</hi> their Glories hide;</l>
+               <l>Unhappy <hi>Windſor,</hi> what's thy falling Pride!</l>
+               <l>Beneath this fatal Shock thy <hi>Genius</hi> bows,</l>
+               <l>Down to the Earth he bends his <hi>Towry Brows.</hi>
+               </l>
+               <l>
+                  <hi>Sable</hi> and <hi>Shade</hi> hang thy proud Domes all o'er:</l>
+               <l>
+                  <hi>Varro,</hi> thy <hi>Pencil-Glory</hi> ſhines no more.</l>
+               <l>Nay the Great <hi>Albion's Guardian Saint,</hi> that calls</l>
+               <l>His Conſtellated WORTHIES to thy Walls,</l>
+               <l>Inveſted there with HONOUR's Nobleſt JEM,</l>
+               <l>The <hi>Azure Circle,</hi> and the <hi>Orient</hi> Beam:</l>
+               <l>He and his <hi>Radiant Troop</hi> their <hi>GLOC'STER</hi> wail;</l>
+               <l>Low in the Duſt their Dragging <hi>Streamers</hi> trail.</l>
+               <l>Even in that <hi>Choir,</hi> where once all GLORY Sung,</l>
+               <l>Where <hi>Blazon'd Creſts,</hi> and <hi>Glittering Trophies</hi> hung;</l>
+               <l>Now broken Sighs, and diſcord Murmurs jar:</l>
+               <l>Their Heads all droop at <hi>GLOC'STER</hi>'s ſetting STAR.</l>
+            </lg>
+            <lg>
+               <l>And thou Romantick <hi>Chief,</hi> ſo far renown'd</l>
+               <l>With thy <hi>Poetick</hi> Laurels round thy Head;</l>
+               <l>For that bold Stroke the <hi>Britiſh Champion</hi> Crown'd,</l>
+               <l>A <hi>Conquer'd Dragon</hi> and a <hi>Reſcued Maid:</hi>
+               </l>
+               <l>Oh could thy great Reviving <hi>Genius</hi> wake,</l>
+               <l>More darling <hi>Miracles</hi> to undertake!</l>
+               <l>
+                  <hi>Englands</hi> True <hi>Tutelar Saint,</hi> true <hi>Heaven-crown'd</hi> Head,</l>
+               <l>Whither would thy Immortal Glory ſpread;</l>
+               <l>The Founder of thy <hi>Albion</hi>'s Deathleſs Joy,</l>
+               <l>Coud'ſt thou have wreſtled <hi>Heav'n,</hi> and ſav'd the BOY.</l>
+            </lg>
+            <lg>
+               <pb n="7" facs="tcp:41237:4"/>
+               <!-- PDF PAGE 11 -->
+               <l>But are his <hi>Funeral Rites</hi> confin'd alone,</l>
+               <l>T' a wailing <hi>Pallace,</hi> and a Mourning Throne!</l>
+               <l>His Dirge muſt to remoter Regions ſound.</l>
+               <l>With <hi>GLOC'STER</hi>'s Sable hang thy <hi>Temples</hi> round:</l>
+               <l>Yes, <hi>Albion,</hi> when this Blow ſo dear muſt coſt,</l>
+               <l>The promis'd Champion of thy ALTAR's loſt;</l>
+               <l>The happier ſmiling World around thee ſee,</l>
+               <l>All boaſt their great revolving <hi>Jubilee.</hi>
+               </l>
+               <l>Whilſt this ſad Face thy louring <hi>Aera</hi> bears,</l>
+               <l>Commence Thy <hi>Century</hi> in <hi>Sighs</hi> and <hi>Tears.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>When for th' <hi>Irreparable Loſs</hi> we grieve,</l>
+               <l>If <hi>Infinite</hi> Additions can receive:</l>
+               <l>In <hi>GLOC'STER</hi>'s Fate <hi>Death</hi> owed our World that <hi>Spight,</hi>
+               </l>
+               <l>As even to make Affliction <hi>Exquiſite.</hi>
+               </l>
+               <l>Death ſometimes does a kind of <hi>Pity</hi> take,</l>
+               <l>To the Sick Bed his ſlow Approaches make.</l>
+               <l>The Sorrow there does with <hi>Gradation</hi> flow;</l>
+               <l>
+                  <hi>Prepar'd</hi> we mourn, and hear th' <hi>Expected</hi> Blow.</l>
+               <l>In <hi>GLOC'STER</hi>'s Wound he ſtruck with that <hi>Surpriſe,</hi>
+               </l>
+               <l>Our Ears he ſtartled, e'er he ſwell'd our Eyes.</l>
+            </lg>
+            <lg>
+               <l>Oh 'twas but Yeſterday, the <hi>Lovely</hi> BOY,</l>
+               <l>Hemm'd round with <hi>Triumph,</hi> hail'd with Songs of <hi>Joy;</hi>
+               </l>
+               <lg>
+                  <l>The Great <hi>Lucina,</hi> with a Train ſo gay,</l>
+                  <l>Her <hi>Annual Rites</hi> we ſaw the <hi>Goddeſs</hi> pay;</l>
+                  <l>
+                     <hi>Joy,</hi> that ev'n warm'd the Spring, and cheer'd the Day.</l>
+               </lg>
+               <l>All the whole Grove with warbling Ecchoes rung:</l>
+               <l>On every Bough the Feather'd Muſick Sung.</l>
+               <l>
+                  <pb n="8" facs="tcp:41237:5"/>
+                  <!-- PDF PAGE 12 -->
+All with one Rival Harmony contend;</l>
+               <l>Loaded with <hi>Choirs</hi> the pendant Branches bend.</l>
+            </lg>
+            <lg>
+               <l>But whilſt the <hi>Philomel</hi> thus Charm'd our Ear;</l>
+               <l>Was the ſad boding <hi>Raven</hi>'s <hi>Croak</hi> ſo near?</l>
+               <l>Stood the dire <hi>Siſters</hi> with their <hi>Fatal Twine,</hi>
+               </l>
+               <l>The Grinning <hi>Three</hi> ſo nigh the Smiling <hi>Nine?</hi>
+               </l>
+               <l>Too rapid Fate, whilſt with that Torrent ſpeed,</l>
+               <l>The <hi>Funeral Griefs</hi> the <hi>Birth-Day Joys</hi> ſucceed.</l>
+            </lg>
+            <lg>
+               <lg>
+                  <l>We heard the Great <hi>Inverted</hi> FIAT call;</l>
+                  <l>From <hi>Light</hi> and <hi>Joy,</hi> ſwift <hi>Woe</hi> and <hi>Darkneſs</hi> fall,</l>
+                  <l>And one Involving <hi>Chaos</hi> ſwallows all.</l>
+               </lg>
+               <lg>
+                  <l>Alas, had ſome kind Interval, between</l>
+                  <l>The <hi>Smile</hi> and <hi>Tear,</hi> remov'd the fatal Scene;</l>
+                  <l>Perhaps it had a little eas'd the Pain.</l>
+               </lg>
+               <lg>
+                  <l>But Providence here made a <hi>Studied</hi> Blow;</l>
+                  <l>When Griefs keen Point ſtabs truly through and through,</l>
+                  <l>'Tis freſh Remembred <hi>Joy</hi> makes the deep Senſe of <hi>Woe.</hi>
+                  </l>
+               </lg>
+               <l>Yes <hi>Woes,</hi> like <hi>Shades</hi> are but Privation all:</l>
+               <l>And 'tis the ſtanding Height that makes the Fall.</l>
+               <l>Diſtreſs lies light at a <hi>Borne</hi> Beggars Door:</l>
+               <l>Who have been Rich, are only truly Poor.</l>
+            </lg>
+            <lg>
+               <l>Thus like the Merchant on a Flattering Sea,</l>
+               <l>Whilſt in one Bark our <hi>Albion</hi> TREASURE lay,</l>
+               <l>All ſafe Below, and all ſerene above;</l>
+               <l>With what full Gale our ſwelling <hi>Glories</hi> drove,</l>
+               <l>On that all <hi>Smiling Day,</hi> before ſo black</l>
+               <l>A riſing <hi>Tempeſt,</hi> and ſo vaſt a <hi>Wrack.</hi>
+               </l>
+            </lg>
+            <lg>
+               <pb n="9" facs="tcp:41237:5"/>
+               <!-- PDF PAGE 12 -->
+               <l>And thou, <hi>
+                     <g ref="char:V">Ʋ</g>rania,</hi> once invok'd by me,</l>
+               <l>To the <hi>Great Nine</hi> the meaneſt Votary;</l>
+               <l>Thou in whoſe Name, with bold Ambition Fir'd,</l>
+               <l>By Thee, but more by my Great THEME, inſpir'd,</l>
+               <l>On that Great <hi>Day,</hi> even I preſum'd to bring,</l>
+               <l>From thy <hi>Caſtalian Field,</hi> my Floury Offering.</l>
+               <l>Low at His Feet the Proſtrate <hi>Numbers</hi> lay;</l>
+               <l>Till <hi>GLOC'STER</hi>'s Generous Hand, and Smiling Ray,</l>
+               <l>Uprais'd the kneeling <hi>Muſe.</hi> Thus Rais'd, thus Grac'd;</l>
+               <l>In that High Orb the envyed Favourite plac'd;</l>
+               <lg>
+                  <l>In vain the diſtant Crow'd, in vain the Reſt,</l>
+                  <l>My Numerous Poetick Rivals preſt:</l>
+                  <l>Of the whole Choir my <hi>Muſe</hi> alone was Bleſt.</l>
+               </lg>
+               <l>This <hi>Honour</hi> (Oh the Pleaſure!—Oh the Pain!)</l>
+               <l>Was it no more then one Days ſhortliv'd Reign?</l>
+               <lg>
+                  <l>Yes, my <hi>
+                        <g ref="char:V">Ʋ</g>rania,</hi> (ſo our Fates decree!)</l>
+                  <l>That Bright Great DAY did our proud <hi>Albion</hi> ſee,</l>
+                  <l>When Smiling <hi>GLOC'STER</hi> bleſt the World, and Thee.</l>
+               </lg>
+            </lg>
+            <lg>
+               <l>But oh the next Dark <hi>Morne</hi> began to riſe,</l>
+               <l>The fatal <hi>Cloud</hi> that blacken'd all our Skies:</l>
+               <lg>
+                  <l>That <hi>Cloud</hi> (Oh Horror! Oh th' amazing Fright!)</l>
+                  <l>To our loſt <hi>Hopes,</hi> and ever ſetting <hi>Light,</hi>
+                  </l>
+                  <l>Subſtantial Darkneſs; all <hi>Egyptian Night.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Oh, my <hi>
+                     <g ref="char:V">Ʋ</g>rania,</hi> that Triumphant Day,</l>
+               <l>When nought but <hi>Garlands</hi> ſtrow'd his <hi>Fragrant Way;</hi>
+               </l>
+               <l>Had thy own Great Apollinary God,</l>
+               <l>With his whole <hi>Delphick Spirit,</hi> dar'd forebode,</l>
+               <l>
+                  <pb n="10" facs="tcp:41237:6"/>
+                  <!-- PDF PAGE 13 -->
+The louring Storm, and falling Bolt ſo nigh;</l>
+               <l>That dreadful <hi>Wrath</hi> of their whole Angry Sky,</l>
+               <l>Their <hi>pouring Vials</hi> were prepared to ſhed;</l>
+               <l>The pendant Fate o'er that dear <hi>Royal</hi> HEAD:</l>
+               <l>Would'ſt thou have even believ'd an <hi>Oracle,</hi>
+               </l>
+               <l>Whoſe <hi>Mandrake's Groan</hi> durſt that dire Doom <hi>foretell.</hi>
+               </l>
+               <l>Or when thy own Proud <hi>Notes,</hi> in that Great NAME,</l>
+               <l>All join'd with <hi>GLOC'STER</hi>'s ecchoing <hi>Trumps of Fame,</hi>
+               </l>
+               <l>Did th' Univerſal <hi>Io Paeans</hi> ſound;</l>
+               <l>Whilſt nought but Pleaſure trod the <hi>Hallow'd Ground:</hi>
+               </l>
+               <l>Oh could'ſt thou think thy <hi>Cheerful Airs</hi> ſo ſoon,</l>
+               <l>To <hi>Sighs,</hi> and <hi>Plaints</hi> ſhould all their <hi>Joys</hi> untune.</l>
+            </lg>
+            <lg>
+               <lg>
+                  <l>Yes; Thus Untun'd, let your whole <hi>Virgin Train,</hi>
+                  </l>
+                  <l>Now boaſt their long <hi>Inſpiring Fount</hi> in vain:</l>
+                  <l>
+                     <hi>Harmony</hi>'s baniſh'd where <hi>Diſtractions</hi> reign.</l>
+               </lg>
+               <l>Let vain <hi>Poetick Art</hi> her Toil give o'er;</l>
+               <l>Her own <hi>Minerva's Vulcan,</hi> Sweat no more</l>
+               <lg>
+                  <l>To beat out pondrous Thought to <hi>Chime</hi> and <hi>Sound,</hi>
+                  </l>
+                  <l>Make <hi>Sweetned Accents</hi> Dance their airy Round:</l>
+                  <l>This Stroke of Fate muſt WIT it <hi>ſelf</hi> confound.</l>
+               </lg>
+               <lg>
+                  <l>Ill wou'd this Theme with <hi>meaſur'd Notes</hi> diſpenſe;</l>
+                  <l>It breaks all <hi>Numbers,</hi> and diſſolves all <hi>Senſe.</hi>
+                  </l>
+                  <l>Who ever join'd <hi>Deſpair</hi> and <hi>Eloquence?</hi>
+                  </l>
+               </lg>
+               <l>Drag then your miſerable <hi>Choir</hi> along,</l>
+               <l>With broken <hi>Lyres,</hi> and an Imperfect <hi>Song:</hi>
+               </l>
+               <l>What your faint <hi>Voices</hi> want, your <hi>Eyes</hi> ſhall bring,</l>
+               <l>In <hi>GLOC'STER</hi>'s <hi>Dirge</hi> weep, what you cannot Sing.</l>
+               <l>A <hi>Greif</hi> ſo juſt ne'er had a tend'rer Tye:</l>
+               <l>The MUSES mourn to ſee the GRACES Die.</l>
+            </lg>
+            <lg>
+               <pb n="11" facs="tcp:41237:6"/>
+               <!-- PDF PAGE 13 -->
+               <l>Nor is their Narrower Circle, their <hi>Twin-Mount,</hi>
+               </l>
+               <l>And the ſhort Banks of the <hi>Pierian Fount,</hi>
+               </l>
+               <l>The <hi>Muſes World</hi> alone, the Mourners there:</l>
+               <l>No, for Thy vaſter Region of Deſpair,</l>
+               <lg>
+                  <l>Far as <hi>Britannia</hi>'s <hi>Sun</hi> can Set or Riſe,</l>
+                  <l>Far as her <hi>Tide</hi> can flow, or <hi>Glory</hi> flies,</l>
+                  <l>Thou canton'ſt <hi>Provinces</hi> for watry Eyes.</l>
+               </lg>
+            </lg>
+            <lg>
+               <l>But if, when that Dear PRIDE of <hi>Britain fell,</hi>
+               </l>
+               <l>So high the diſtant <hi>Popular Tears</hi> muſt ſwell;</l>
+               <l>How muſt the Nearer <hi>Founts of Sorrow</hi> flow,</l>
+               <l>A PARENT's Greif, th' <hi>
+                     <g ref="char:V">Ʋ</g>nutterable Woe!</hi>
+               </l>
+               <l>The <hi>Royal NIOBE,</hi> ſee where She ſtands,</l>
+               <l>With Streaming Eyes, and with Uplifted Hands;</l>
+               <l>At this laſt Shaft of her dear ALL bereft:</l>
+               <l>Her Self alone, the <hi>Weeping Marble,</hi> left.</l>
+            </lg>
+            <lg>
+               <l>But Thou, Great <hi>Mourner,</hi> in Thy <hi>Sable Shrowd,</hi>
+               </l>
+               <l>Thou whoſe Bright HEAD, wrap'd in Thy <hi>Watry Cloud,</hi>
+               </l>
+               <l>In ever ſhowring Sorrows melts away</l>
+               <l>The long long Sleepleſs Night, and Cheerleſs Day;</l>
+               <l>If there's a Balm for Wounds ſo deep as Thine,</l>
+               <l>Borrow a <hi>Courage</hi> from Thy <hi>Royal Line.</hi>
+               </l>
+               <lg>
+                  <l>If poſſible, ſuch Griefs can be allay'd,</l>
+                  <l>Call thoſe <hi>Immortal Genii</hi> to Thy Aid;</l>
+                  <l>Copy at once the <hi>Living</hi> and the <hi>Dead.</hi>
+                  </l>
+               </lg>
+               <l>Nay, yet more Animating Fires t' aſſume,</l>
+               <l>Even in an <hi>Infant Glaſs</hi> Thy <hi>Courage</hi> plume;</l>
+               <l>When Thy Wet Eyes to Thy dear <hi>GLOC'STER</hi> turn,</l>
+               <l>Inſpir'd even by that Darling Duſt they Mourn,</l>
+               <l>
+                  <pb n="12" facs="tcp:41237:7"/>
+                  <!-- PDF PAGE 14 -->
+Support the fatal Blow, and Nobly Shine,</l>
+               <l>At the Young HEROE's Urn the Greater <hi>HEROINE.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>But if nought elſe Thy Pious Tears can ſtop,</l>
+               <l>Thy drooping Cauſe let this laſt Comfort prop.</l>
+               <l>Think that this Blow to the dear BRANCH was giv'n.</l>
+               <l>Perhaps to make the ROOT more dear to Heav'n.</l>
+               <l>In all Thy <hi>Loſſes,</hi> all Thy <hi>Rachel</hi> Cries,</l>
+               <l>Oh draw this Glory from Thy Miſeries;</l>
+               <l>Claim from this Tranſient Providential <hi>Frown</hi>
+               </l>
+               <l>Eternal <hi>Smiles:</hi> The <hi>Croſs</hi> muſt win the <hi>Crown.</hi>
+               </l>
+               <l>Suff'rings and <hi>Tears</hi> ſometimes the <hi>Darlings</hi> prove</l>
+               <l>Thoſe <hi>Pearls</hi> below enrich the <hi>Wreaths</hi> above.</l>
+            </lg>
+            <lg>
+               <l>But though, nor <hi>Tears</hi> nor <hi>Prayers</hi> can <hi>GLOC'STER</hi> ſave,</l>
+               <l>No Plea to bar th' Inexorable <hi>Grave.</hi>
+               </l>
+               <l>What though <hi>Britannia</hi> now muſt ne'er behold</l>
+               <l>That Dear <hi>Succeſſion</hi> to her <hi>Circling</hi> GOLD;</l>
+               <l>Oh Thou Great HEIR to a <hi>Sublimer</hi> THRONE,</l>
+               <l>We want that Brow for Crowns; that Brow wants none.</l>
+               <lg>
+                  <l>Already waits Thy <hi>CORONATION Train,</hi>
+                  </l>
+                  <l>All the bright Miriads on yon <hi>Shining Plain,</hi>
+                  </l>
+                  <l>The Cavalcade to Thy <hi>Eternal</hi> Reign.</l>
+               </lg>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:41237:7"/>
+            <!-- PDF PAGE 14 -->
+         </div>
+      </body>
+   </text>
+</TEI>
